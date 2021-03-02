@@ -14,7 +14,7 @@ loop do
     if option == 0
         break
     elsif option > 4
-        print 'Ppção inválida'
+        print 'Opção inválida'
         break
     end
 
