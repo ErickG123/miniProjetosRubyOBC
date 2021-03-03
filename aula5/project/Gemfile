@@ -1,0 +1,4 @@
+# Fonte de onde vem as gems
+source 'https://rubygems.org'
+ 
+gem 'os'
